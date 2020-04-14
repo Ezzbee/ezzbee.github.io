@@ -1,0 +1,93 @@
+body {
+}
+
+.navbar.navbar-default.navbar-fixed-top.navigation-clean {
+  top:0;
+  box-shadow:0px 5px 20px black;
+  display:none;
+}
+
+#bio {
+  text-align:center;
+  height:180vh;
+  background:url("../../assets/img/Online Portfolio Background.jpg") no-repeat;
+  background-size:cover;
+  margin:0;
+  padding:40px 20px;
+  color:white;
+}
+
+.jumbotron.jumbo {
+  background-color:rgba(0,0,0,0.5);
+  border-radius:25px;
+}
+
+#about {
+  margin:0;
+  padding:40px 20px;
+  color:white;
+}
+
+.container.about {
+  max-width:1000px;
+}
+
+.thumbnail.picture {
+  max-width:200px;
+  max-height:220px;
+  border-radius:50%;
+  border:3px solid white;
+  overflow:hidden;
+  margin:0 auto;
+}
+
+#about {
+  background-color:rgb(167,167,230);
+  margin:0;
+  padding:40px 20px;
+  color:rgb(6,6,6);
+}
+
+.container.about {
+  max-width:1000px;
+  text-align:center;
+}
+
+.skill-list {
+  list-style:none;
+}
+
+.work {
+  font-size:15px;
+}
+
+.container.work-history {
+  text-align:center;
+}
+
+.edu-cert {
+  background-color:rgb(211,204,204);
+}
+
+#contact {
+  font-size:25px;
+  padding:29px;
+  text-align:center;
+}
+
+#home {
+  list-style-image:url(../../assets/img/iconfinder_home_216242.png);
+}
+
+#phone {
+  list-style-image:url(../../assets/img/iconfinder_phone_on_103680.svg);
+}
+
+#email {
+  list-style-image:url(../../assets/img/iconfinder_42-Email_2123873.png);
+}
+
+a:hover {
+  background-color:rgb(230,145,151);
+}
+
